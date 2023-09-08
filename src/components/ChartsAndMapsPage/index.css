@@ -1,0 +1,62 @@
+.c-m-container {
+  padding: 10px 16px;
+}
+.c-m-content-container {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.line-graph-container {
+}
+.chart-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: cadetblue;
+}
+.covid-head {
+  color: #fc3c3c !important;
+  font-size: 25px !important;
+}
+.deaths-rec-act-container {
+  width: 100%;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.stacks {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.stack {
+  display: flex;
+  flex-direction: column;
+
+  background-color: #fff;
+  padding: 10px 30px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  width: 160px;
+}
+.stack-name {
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 12px;
+  font-weight: 700;
+}
+.stack-value {
+  color: #343c6a;
+  font-family: 18px;
+  font-weight: 700;
+}
+.v-2 {
+  color: #2ac2f5;
+}
+.v-3 {
+  color: #60f768;
+}
+.v-4 {
+  color: #f70202;
+}

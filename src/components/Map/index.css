@@ -1,0 +1,10 @@
+.covid-map {
+}
+.popup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.country {
+  width: 100px !important;
+}

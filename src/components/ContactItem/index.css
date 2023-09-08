@@ -1,0 +1,32 @@
+.contact-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: solid 1.4px #e2e2e2;
+  padding: 0;
+}
+.col-value {
+  color: #718ebf;
+  font-size: 14px;
+  font-weight: 500;
+  width: -webkit-fill-available;
+  padding: 6px 0px 6px 6px;
+  margin: 10px 0px 10px 30px;
+}
+.btnn {
+  font-size: 16px;
+  border: 0;
+  background-color: transparent;
+  margin-left: 6px;
+  color: rgb(254, 92, 115);
+}
+.edit-btn {
+  color: rgb(45, 96, 255);
+}
+.view-btn {
+  color: #16dbaa !important;
+}
+
+.w-a {
+  color: #505887;
+}

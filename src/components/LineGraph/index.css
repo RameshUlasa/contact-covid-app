@@ -1,0 +1,14 @@
+.chart-title {
+  font-size: 14px !important;
+  font-weight: 600;
+}
+.chart-container {
+  width: 80%;
+  margin: 0 auto;
+}
+.loader-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
